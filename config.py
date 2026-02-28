@@ -6,7 +6,7 @@ Configuration settings for the Greenhouse Intelligence System.
 NASA_API_KEY = ""
 
 # Hugging Face API token
-HF_API_TOKEN = "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"
+HF_API_TOKEN = "api paste here"
 
 # Default location (Bengaluru)
 DEFAULT_LATITUDE = 12.97
